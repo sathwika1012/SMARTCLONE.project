@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name":"vivo T3x (crimsonbliss 128, 6gb) ",
+        "price": 16900,
+        "image": "image/Vivo T3x(Crimsonbliss 128GB)6 GB.jpg"
+    },
+    {
+        "id": 2,
+        "name":"VIVO T3Lite marjestic black 6gb 128gb",
+        "price": 29800,
+        "image": "image/vivo t3lite marjestic black 6gb 128 gb.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Vivo t3x 5g(celestical green 128gb, 6gb)",
+        "price": 12500,
+        "image": "image/vivo t3x 5g(celestical green,128gb)6 gb ram.jpg"
+    },
+    {
+        "id": 4,
+        "name":"vivo t3x crimsonbliss 4gb 128gb ",
+        "price": 2300,
+        "image": "image/vivo t3x crimsonbliss 4gb 128gb.jpg"
+    },
+    {
+        "id": 5,
+        "name":" vivo t3x crimsonbliss 4gb 128gb",
+        "price": 2400,
+        "image": "image/Vivo T3x(Crimsonbliss 128GB)6 GB.jpg"
+    },
+    {
+        "id": 6,
+        "name":" vivo v30e silk blue, 8gb ,128gb",
+        "price": 1900,
+        "image": "image/vivo v30e silkblue,8gb 128 gb.jpg"
+    },
+    {
+        "id": 7,
+        "name":" vivo v30e velvet red 8gb, 128gb",
+        "price": 1700,
+        "image": "image/vivo v30e velvet red 8gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":" vivo v40 lotus purple 8gb 128gb",
+        "price": 1900,
+        "image": "image/vivo v40 lotus purple 8gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo v40e aismartphone royalbronze 8gb 128gb ",
+        "price": 2200,
+        "image": "image/vivo v40e aismartphone royalbronze 8gb 128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo y18 gem green,4gb 128gb",
+        "price": 2500,
+        "image": "image/vivo y18 gem green,4gb 28gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo y18e spaceblack 4gb 64gb",
+        "price": 1200,
+        "image": "image/vivo y18e spaceblack 4gb 64gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":" vivo y18i(spaceblack) 64gb 4gb",
+        "price": 2600,
+        "image": "image/vivo y18i(spaceblack)64 4gb ram.jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo y28s twinkling purple 4gb , 128gb",
+        "price": 2300,
+        "image": "image/vivo y28s twinkling purple 4gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":" vivo y28s vintage red 6gb 128gb",
+        "price": 2600,
+        "image": "image/vivo y28s vintage red 6gb 128gb.jpg"
+    },  {
+        "id": 8,
+        "name":"vivo y40 titaninum grey 8gb 128gb",
+        "price": 2300,
+        "image": "image/vivo y40 titanium grey 8gb,128gb.jpg"
+    },
+     {
+        "id": 8,
+        "name":"vivo y58 5g himalayan blue 8gb 128gbg",
+        "price": 2400,
+        "image": "image/vivo y58 5g himalayan blue 8gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo y58 5g sundarbans green,8gb,128gb ",
+        "price": 2100,
+        "image": "image/vivo y58 5g sundarbans green,8gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo y200 jungle green 8gb,256 gb.jpg",
+        "price": 2600,
+        "image": "image/vivo y200 jungle green 8gb,256 gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo y200e saffron delight 8gb, 128gb.jpg",
+        "price": 2100,
+        "image":"image/vivo y200e saffron delight 8gb, 128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo-foldable-smartphone-1024x839.jpgvivo-foldable-smartphone-1024x839.jpg",
+        "price": 2200,
+        "image":"image/vivo-foldable-smartphone-1024x839.jpg"
+    }
+
+]

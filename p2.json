@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name":"poco m6 5g (orion blue 4gb 64gb) ",
+        "price": 1200,
+        "image": "image/poco m6 5g (orion blue 4gb 64gb).jpg"
+    },
+    {
+        "id": 2,
+        "name":"poco m6 5g (galactic black 6gb 128gb)",
+        "price": 1250,
+        "image": "image/poco m6 5g (galactic black 6gb 128gb).jpg"
+    },
+    {
+        "id": 3,
+        "name":"poco c61 (ethereal blue 4gb 64gb)",
+        "price": 1290,
+        "image": "image/poco c61 (ethereal blue 4gb 64gb).jpg"
+    },
+    {
+        "id": 4,
+        "name":"poco m4 pro(poco yellow 8gb 128gb). ",
+        "price": 1200,
+        "image": "image/poco m4 pro(poco yellow 8gb 128gb).jpg"
+    },
+    {
+        "id": 5,
+        "name":" poco m6 5g (galactic black 4gb 64gb).",
+        "price": 1300,
+        "image": "image/poco m6 5g (galactic black 4gb 64gb).jpg"
+    },
+    {
+        "id": 6,
+        "name":" poco m6 5g (galactic black 6gb 128gb).",
+        "price": 1200,
+        "image": "image/poco m6 5g (galactic black 6gb 128gb).jpg"
+    },
+    {
+        "id": 7,
+        "name":"poco m6 5g(polaris green 4gb 64gb)",
+        "price": 1200,
+        "image": "image/poco m6 5g(polaris green 4gb 64gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"poco m6 plus 5g (ice silver 6gb 128gb)",
+        "price": 1200,
+        "image": "image/poco m6 plus 5g (ice silver 6gb 128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"poco m6 plus 5g misty lavender 8gb 128gb) ",
+        "price": 1200,
+        "image": "image/poco m6 plus 5g misty lavender 8gb 128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo y18 gem green,4gb 128gb",
+        "price": 1200,
+        "image": "image/vivo y18 gem green,4gb 28gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"poco m6 pro 5g(power black 4gb 128gb)",
+        "price": 1200,
+        "image": "image/poco m6 pro 5g(power black 4gb 128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":" poco x6 5g(mirror black 12gb 512gb)",
+        "price": 1300,
+        "image": "image/poco x6 5g(mirror black 12gb 512gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"poco x6 neo 5g(astral black 8gb 128gb)",
+        "price": 1250,
+        "image": "image/poco x6 neo 5g(astral black 8gb 128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":" poco x6 neo 5g(horizon blue 6gb 128gb)",
+        "price": 1200,
+        "image": "image/poco x6 neo 5g(horizon blue 6gb 128gb).jpg"
+    },  {
+        "id": 8,
+        "name":"rebmi 13c 5g (startrauil siliver 4gb+ ram,128gb)",
+        "price": 1500,
+        "image": "image/rebmi 13c 5g (startrauil siliver 4gb+ ram,128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"redmi 13 5g hawaiian blue 8gb 128gb",
+        "price": 1300,
+        "image": "image/redmi 13 5g hawaiian blue 8gb 128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"redmi 23 pro (fusion purple 8gb 256 gb)",
+        "price": 1200,
+        "image": "image/redmi 23 pro (fusion purple 8gb 256 gb).jpg"
+    },  {
+        "id": 8,
+        "name":"redmi 23 pro (fusion purple 8gb 256 gb)",
+        "price": 1200,
+        "image": "image/redmi 23 pro (fusion purple 8gb 256 gb).jpg"
+    }
+
+]
+     

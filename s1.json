@@ -1,0 +1,324 @@
+[
+    {
+        "id": 1,
+        "name":"poco m6 5g (orion blue 4gb 64gb) ",
+        "price": 200,
+        "image": "image/poco m6 5g (orion blue 4gb 64gb).jpg"
+    },
+    {
+        "id": 2,
+        "name":"poco m6 5g (galactic black 6gb 128gb)",
+        "price": 250,
+        "image": "image/poco m6 5g (galactic black 6gb 128gb).jpg"
+    },
+    {
+        "id": 3,
+        "name":"poco c61 (ethereal blue 4gb 64gb)",
+        "price": 290,
+        "image": "image/poco c61 (ethereal blue 4gb 64gb).jpg"
+    },
+    {
+        "id": 4,
+        "name":"poco m4 pro(poco yellow 8gb 128gb). ",
+        "price": 200,
+        "image": "image/poco m4 pro(poco yellow 8gb 128gb).jpg"
+    },
+    {
+        "id": 5,
+        "name":" poco m6 5g (galactic black 4gb 64gb).",
+        "price": 300,
+        "image": "image/poco m6 5g (galactic black 4gb 64gb).jpg"
+    },
+    {
+        "id": 6,
+        "name":" poco m6 5g (galactic black 6gb 128gb).",
+        "price": 200,
+        "image": "image/poco m6 5g (galactic black 6gb 128gb).jpg"
+    },
+    {
+        "id": 7,
+        "name":"poco m6 5g(polaris green 4gb 64gb)",
+        "price": 200,
+        "image": "image/poco m6 5g(polaris green 4gb 64gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"poco m6 plus 5g (ice silver 6gb 128gb)",
+        "price": 200,
+        "image": "image/poco m6 plus 5g (ice silver 6gb 128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"poco m6 plus 5g misty lavender 8gb 128gb) ",
+        "price": 200,
+        "image": "image/poco m6 plus 5g misty lavender 8gb 128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"vivo y18 gem green,4gb 128gb",
+        "price": 200,
+        "image": "image/vivo y18 gem green,4gb 28gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"poco m6 pro 5g(power black 4gb 128gb)",
+        "price": 200,
+        "image": "image/poco m6 pro 5g(power black 4gb 128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":" poco x6 5g(mirror black 12gb 512gb)",
+        "price": 200,
+        "image": "image/poco x6 5g(mirror black 12gb 512gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"poco x6 neo 5g(astral black 8gb 128gb)",
+        "price": 200,
+        "image": "image/poco x6 neo 5g(astral black 8gb 128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":" poco x6 neo 5g(horizon blue 6gb 128gb)",
+        "price": 200,
+        "image": "image/poco x6 neo 5g(horizon blue 6gb 128gb).jpg"
+    },  {
+        "id": 8,
+        "name":"rebmi 13c 5g (startrauil siliver 4gb+ ram,128gb)",
+        "price": 200,
+        "image": "image/rebmi 13c 5g (startrauil siliver 4gb+ ram,128gb).jpg"
+    },
+    {
+        "id": 8,
+        "name":"redmi 13 5g hawaiian blue 8gb 128gb",
+        "price": 200,
+        "image": "image/redmi 13 5g hawaiian blue 8gb 128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"redmi 23 pro (fusion purple 8gb 256 gb)",
+        "price": 200,
+        "image": "image/redmi 23 pro (fusion purple 8gb 256 gb).jpg"
+    },  {
+        "id": 8,
+        "name":"redmi 23 pro (fusion purple 8gb 256 gb)",
+        "price": 200,
+        "image": "image/redmi 23 pro (fusion purple 8gb 256 gb).jpg"
+    },
+        {
+            "id": 1,
+            "name":"vivo T3x (crimsonbliss 128, 6gb) ",
+            "price": 200,
+            "image": "image/Vivo T3x(Crimsonbliss 128GB)6 GB.jpg"
+        },
+        {
+            "id": 2,
+            "name":"VIVO T3Lite marjestic black 6gb 128gb",
+            "price": 250,
+            "image": "image/vivo t3lite marjestic black 6gb 128 gb.jpg"
+        },
+        {
+            "id": 3,
+            "name":"Vivo t3x 5g(celestical green 128gb, 6gb)",
+            "price": 290,
+            "image": "image/vivo t3x 5g(celestical green,128gb)6 gb ram.jpg"
+        },
+        {
+            "id": 4,
+            "name":"vivo t3x crimsonbliss 4gb 128gb ",
+            "price": 200,
+            "image": "image/vivo t3x crimsonbliss 4gb 128gb.jpg"
+        },
+        {
+            "id": 5,
+            "name":" vivo t3x crimsonbliss 4gb 128gb",
+            "price": 300,
+            "image": "image/Vivo T3x(Crimsonbliss 128GB)6 GB.jpg"
+        },
+        {
+            "id": 6,
+            "name":" vivo v30e silk blue, 8gb ,128gb",
+            "price": 200,
+            "image": "image/vivo v30e silkblue,8gb 128 gb.jpg"
+        },
+        {
+            "id": 7,
+            "name":" vivo v30e velvet red 8gb, 128gb",
+            "price": 200,
+            "image": "image/vivo v30e velvet red 8gb,128gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":" vivo v40 lotus purple 8gb 128gb",
+            "price": 200,
+            "image": "image/vivo v40 lotus purple 8gb,128gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":"vivo v40e aismartphone royalbronze 8gb 128gb ",
+            "price": 200,
+            "image": "image/vivo v40e aismartphone royalbronze 8gb 128gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":"vivo y18 gem green,4gb 128gb",
+            "price": 200,
+            "image": "image/vivo y18 gem green,4gb 28gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":"vivo y18e spaceblack 4gb 64gb",
+            "price": 200,
+            "image": "image/vivo y18e spaceblack 4gb 64gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":" vivo y18i(spaceblack) 64gb 4gb",
+            "price": 200,
+            "image": "image/vivo y18i(spaceblack)64 4gb ram.jpg"
+        },
+        {
+            "id": 8,
+            "name":"vivo y28s twinkling purple 4gb , 128gb",
+            "price": 200,
+            "image": "image/vivo y28s twinkling purple 4gb,128gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":" vivo y28s vintage red 6gb 128gb",
+            "price": 200,
+            "image": "image/vivo y28s vintage red 6gb 128gb.jpg"
+        },  {
+            "id": 8,
+            "name":"vivo y40 titaninum grey 8gb 128gb",
+            "price": 200,
+            "image": "image/vivo y40 titanium grey 8gb,128gb.jpg"
+        },
+         {
+            "id": 8,
+            "name":"vivo y58 5g himalayan blue 8gb 128gbg",
+            "price": 200,
+            "image": "image/vivo y58 5g himalayan blue 8gb,128gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":"vivo y58 5g sundarbans green,8gb,128gb ",
+            "price": 200,
+            "image": "image/vivo y58 5g sundarbans green,8gb,128gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":"vivo y200 jungle green 8gb,256 gb.jpg",
+            "price": 200,
+            "image": "image/vivo y200 jungle green 8gb,256 gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":"vivo y200e saffron delight 8gb, 128gb.jpg",
+            "price": 200,
+            "image":"image/vivo y200e saffron delight 8gb, 128gb.jpg"
+        },
+        {
+            "id": 8,
+            "name":"vivo-foldable-smartphone-1024x839.jpgvivo-foldable-smartphone-1024x839.jpg",
+            "price": 200,
+            "image":"image/vivo-foldable-smartphone-1024x839.jpg"
+        },
+            {
+                "id": 1,
+                "name":"samsung a14 4gb,128gb. ",
+                "price": 200,
+                "image": "image/samsung a14 4gb,128gb.jpg"
+            },
+            {
+                "id": 2,
+                "name":"samsung a15 6gb,128gb.",
+                "price": 250,
+                "image": "image/samsung a15 6gb,128gb.jpg"
+            },
+            {
+                "id": 3,
+                "name":"samsung a15 8gb,128gb",
+                "price": 290,
+                "image": "image/samsung a15 8gb,128gb.jpg"
+            },
+            {
+                "id": 4,
+                "name":"samsung a15 8gb,256gb ",
+                "price": 200,
+                "image": "image/samsung a15 8gb,256gb.jpg"
+            },
+            {
+                "id": 5,
+                "name":" samsung a35 black color 8gb,128gb.",
+                "price": 300,
+                "image": "image/samsung a35 black color 8gb,128gb.jpg"
+            },
+            {
+                "id": 6,
+                "name":" samsung a35.jpg",
+                "price": 200,
+                "image": "image/samsung a35.jpg"
+            },
+            {
+                "id": 7,
+                "name":"samsung a55 8gb,128gb",
+                "price": 200,
+                "image": "image/samsung a55 8gb,128gb.jpg"
+            },
+            {
+                "id": 8,
+                "name":" samsung m13 4gb,64gb",
+                "price": 200,
+                "image": "image/samsung m13 4gb,64gb - Copy.jpg"
+            },
+            {
+                "id": 8,
+                "name":"samsung m13 4gb,64gb ",
+                "price": 200,
+                "image": "image/samsung m13 4gb,64gb.jpg"
+            },
+            {
+                "id": 8,
+                "name":"samsung m15 ,4gb,64gb",
+                "price": 200,
+                "image": "image/samsung m15 ,4gb,64gb.jpg"
+            },
+            {
+                "id": 8,
+                "name":"samsung m15 6gb,128gb",
+                "price": 200,
+                "image": "image/samsung m15 6gb,128gb.jpg"
+            },
+            {
+                "id": 8,
+                "name":" samsung m35 6gb,128gb.",
+                "price": 200,
+                "image": "image/samsung m35 6gb,128gb.jpg"
+            },
+            {
+                "id": 8,
+                "name":"samsung m35 8gb,128gb",
+                "price": 200,
+                "image": "image/samsung m35 8gb,128gb.jpg"
+            },
+            {
+                "id": 8,
+                "name":" samsung m55s 8gb,128gb.jpg",
+                "price": 200,
+                "image": "image/samsung m55s 8gb,128gb.jpg"
+            },  {
+                "id": 8,
+                "name":"samsung s24 ultra 12gb,256gb",
+                "price": 200,
+                "image": "image/samsung s24 ultra 12gb,256gb.jpg"
+            },
+            {
+                "id": 8,
+                "name":"samung m15 ,4gb,128 gb.",
+                "price": 200,
+                "image": "image/samung m15 ,4gb,128 gb.jpg"
+            }
+             
+    
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name":"samsung a14 4gb,128gb. ",
+        "price": 1200,
+        "image": "image/apple 13 green.jpg"
+    },
+    {
+        "id": 2,
+        "name":"samsung a15 6gb,128gb.",
+        "price": 1250,
+        "image": "image/samsung a15 6gb,128gb.jpg"
+    },
+    {
+        "id": 3,
+        "name":"samsung a15 8gb,128gb",
+        "price": 1290,
+        "image": "image/samsung a15 8gb,128gb.jpg"
+    },
+    {
+        "id": 4,
+        "name":"samsung a15 8gb,256gb ",
+        "price": 1200,
+        "image": "image/samsung a15 8gb,256gb.jpg"
+    },
+    {
+        "id": 5,
+        "name":" samsung a35 black color 8gb,128gb.",
+        "price": 1300,
+        "image": "image/samsung a35 black color 8gb,128gb.jpg"
+    },
+    {
+        "id": 6,
+        "name":" samsung a35.jpg",
+        "price": 1200,
+        "image": "image/samsung a35.jpg"
+    },
+    {
+        "id": 7,
+        "name":"samsung a55 8gb,128gb",
+        "price": 1200,
+        "image": "image/samsung a55 8gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":" samsung m13 4gb,64gb",
+        "price": 2200,
+        "image": "image/samsung m13 4gb,64gb - Copy.jpg"
+    },
+    {
+        "id": 8,
+        "name":"samsung m13 4gb,64gb ",
+        "price": 3200,
+        "image": "image/samsung m13 4gb,64gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"samsung m15 ,4gb,64gb",
+        "price": 3200,
+        "image": "image/samsung m15 ,4gb,64gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"samsung m15 6gb,128gb",
+        "price": 4200,
+        "image": "image/samsung m15 6gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":" samsung m35 6gb,128gb.",
+        "price": 3200,
+        "image": "image/samsung m35 6gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"samsung m35 8gb,128gb",
+        "price": 3200,
+        "image": "image/samsung m35 8gb,128gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":" samsung m55s 8gb,128gb.jpg",
+        "price": 2200,
+        "image": "image/samsung m55s 8gb,128gb.jpg"
+    },  {
+        "id": 8,
+        "name":"samsung s24 ultra 12gb,256gb",
+        "price": 3200,
+        "image": "image/samsung s24 ultra 12gb,256gb.jpg"
+    },
+    {
+        "id": 8,
+        "name":"samung m15 ,4gb,128 gb.",
+        "price": 3200,
+        "image": "image/samung m15 ,4gb,128 gb.jpg"
+    }
+
+]
+     
